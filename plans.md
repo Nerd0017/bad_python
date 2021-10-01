@@ -4,8 +4,7 @@ plans for this thing:
 
 give this thing a license, (preferably MIT or GNU, although probably MIT) 
 
-make my first mixtape on python ayyyyoooo (python has some nice sound modules)
-^ is this even possible???? 
+make my first mixtape on python (python has some nice sound modules)
 
 peform dark spells in python 
 
