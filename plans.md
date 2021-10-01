@@ -1,6 +1,6 @@
 plans for this thing: 
 
-<strike>make file transfer thingy? (shutil already exists, no need for this)<strike>
+<strike>make file transfer thingy? (shutil already exists, no need for this)</strike>
 
 give this thing a license, (preferably MIT or GNU, although probably MIT) 
 
