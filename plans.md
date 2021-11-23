@@ -1,19 +1,6 @@
 plans for this thing: 
 
-<strike>make file transfer thingy? (shutil already exists, no need for this)</strike>
+<strike>explore the metaphysical properties of reality and reason by using inductive reasoning in python</strike>
 
-give this thing a license, (preferably MIT or GNU, although probably MIT) 
-
-make my first mixtape on python (python has some nice sound modules)
-
-peform dark spells in python 
-
-make my first gui (which is possible)
-
-make actually good programs(impossible) 
-
-that's it I guess 
-
-
-
+<p>explore various python modules I have yet to use</p> 
 
