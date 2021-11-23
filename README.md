@@ -4,6 +4,8 @@
 ![build Tremendously Failing](https://img.shields.io/badge/build-tremendously%20failing-red) 
 ![code quality noob](https://img.shields.io/badge/code%20quality-noob-blue)
 
-<p>programs I make when i'm bored, therfore inattentively typed.<p>
-<p>open for public scrutiny<p>
+<p>This repository is essentially my dumping ground for python code I write within my free time</p> 
+<p>It is advised for you to not seek anything of value within this repository, the majority of the code displayed 
+ here is consequently unclean and horrifingly "unpythonic"</p> 
+ 
  
